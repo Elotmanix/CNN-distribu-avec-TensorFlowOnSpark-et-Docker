@@ -41,7 +41,7 @@ Ce projet démontre l'entraînement distribué d'un réseau de neurones convolut
 ## 🔧 Installation
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/votre-utilisateur/distributed-cnn-mnist.git
+git clone https://github.com/Elotmanix/CNN-distribu-avec-TensorFlowOnSpark-et-Docker
 cd distributed-cnn-mnist
 ```
 
